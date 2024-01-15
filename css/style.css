@@ -37,4 +37,17 @@ body {
 
 a {
     color: var(--link-color);
+ }
+/* style.css */
+
+/* Зміна коліру тла для першого заголовку h1 */
+h1:first-of-type {
+  background-color: white; /* Замініть 'your_color' на бажаний колір */
+}
+/* style.css */
+
+/* Зміна коліру тла для останнього заголовку h1 */
+h1:last-of-type {
+  background-color: 
+  darkblue; /* Замініть 'your_color' на бажаний колір */
 }
